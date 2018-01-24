@@ -1,0 +1,25 @@
+{
+  "name": "wmcc-logger",
+  "version": "1.0.0-beta.1",
+  "release": "25 January 2018",
+  "description": "WorldMobileCoin © WMCC Logger Library",
+  "repository": "git://github.com/worldmobilecoin/wmcc-logger.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-logger",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-logger/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc",
+    "wmcc-logger",
+    "log",
+    "logs",
+    "logger"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-logger.js",
+  "license": "MIT"
+}
